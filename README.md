@@ -1,8 +1,4 @@
-# React + Vite
+H-management Website:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+hospital management website it is some moderate website which they have two roles: Doctor, Patient and patient can book the doctor as well as patient can watch the appointment booked data and doctor also some crud operation are performed
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
